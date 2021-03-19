@@ -167,3 +167,4 @@ Extension Git Graph
 - Filter, map, reduce
 - ngprime - alternative to bootstrap
 - <https://dev.to/jwp/the-power-of-soc-in-angular-typescript-javascript-c7n>
+- Angular heroes tutorial <https://angular.io/tutorial>
